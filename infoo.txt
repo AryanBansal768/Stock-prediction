@@ -1,0 +1,3 @@
+Closing price prediction
+Low price prediction
+Open Price prediction
